@@ -43,6 +43,10 @@ Deploy your bot on `heroku`
 `Fork and Click on Deploy in your fork`
 <p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="250""/></a></p>
 
+# Deploy to railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/CaDKVr?referralCode=rmeX3j)
+
 `Alternate way:`
 
 If you are facing any problem while deploying through heroku button, just fork and `deploy manually` by creating a new app in heroku.
